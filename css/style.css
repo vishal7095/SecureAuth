@@ -1,0 +1,36 @@
+body {
+  background-color: gainsboro;
+  text-align: center;
+}
+
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 10px;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+  display: block;
+  padding: 5px;
+  margin: 0 auto;
+  margin-bottom: 5px;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  background-color: black;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  padding: 5px 7px;
+}
+
+.form-error {
+  color: red;
+}
+
+.form-success {
+  color: green;
+}
